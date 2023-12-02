@@ -11,7 +11,7 @@ import {
 
 // create a component
 const Home = ({navigation}) => {
-  const [name, setName] = useState('GTC');
+  const [name, setName] = useState('Call me man');
 
   const changeText = () => {
     setName('oooooooooooooooooooooooooooo');
